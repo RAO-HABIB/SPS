@@ -1,0 +1,1 @@
+export const BMS_VIDEO = "/videos/bms.mp4";
